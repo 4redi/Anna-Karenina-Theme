@@ -4,7 +4,7 @@
   "description": "A theme based on Anna Karenina character",
   "publisher": "redi-cool-themes",
   "icon": "images/icon.png",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.125.0"
   },
