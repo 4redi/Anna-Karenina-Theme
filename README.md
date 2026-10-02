@@ -14,15 +14,12 @@ Designed with a subdued, literary aesthetic, the theme emphasizes readability wh
 
 Search for **Anna Karenina Theme** in the Extensions view.
 
-
 ## Features
 
 - Carefully balanced syntax highlighting
 - Comfortable contrast for extended coding sessions
 - Consistent coloring across common programming languages
 - Minimal interface distractions
-
-
 
 ## Inspiration
 
