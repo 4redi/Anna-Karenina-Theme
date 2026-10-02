@@ -14,11 +14,6 @@ Designed with a subdued, literary aesthetic, the theme emphasizes readability wh
 
 Search for **Anna Karenina Theme** in the Extensions view.
 
-### From a VSIX
-
-```bash
-code --install-extension anna-karenina-theme-0.0.1.vsix
-```
 
 ## Features
 
@@ -27,27 +22,7 @@ code --install-extension anna-karenina-theme-0.0.1.vsix
 - Consistent coloring across common programming languages
 - Minimal interface distractions
 
-## Development
 
-Clone the repository and install dependencies.
-
-```bash
-npm install
-```
-
-Launch the Extension Development Host.
-
-```bash
-F5
-```
-
-Package the extension.
-
-```bash
-vsce package
-```
-
-> Then install the vsix file
 
 ## Inspiration
 
