@@ -1,7 +1,9 @@
 {
-  "name": "theme",
-  "displayName": "theme",
-  "description": "a theme",
+  "name": "anna-karenina-theme",
+  "displayName": "Anna Karenina Theme",
+  "description": "A theme based on Anna Karenina character",
+  "publisher": "redi-cool-themes",
+  "icon": "images/icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.125.0"
@@ -17,5 +19,9 @@
         "path": "./themes/theme-test-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/4redi/Anna-Karenina-Theme.git"
   }
 }

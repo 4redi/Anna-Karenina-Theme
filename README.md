@@ -6,7 +6,7 @@ Designed with a subdued, literary aesthetic, the theme emphasizes readability wh
 
 ## Preview
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 ## Installation
 
